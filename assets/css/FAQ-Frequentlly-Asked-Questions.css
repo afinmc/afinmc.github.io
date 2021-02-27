@@ -1,0 +1,21 @@
+.faqHeader {
+  font-size: 25px;
+  margin: 0px;
+  padding-bottom: 15px;
+  font-family: farm-new, sans-serif;
+  color: #041c41;
+}
+
+.panel-heading [data-toggle="collapse"]:after {
+  font-family: 'FontAwesome';
+  content: "\f078";
+  float: right;
+  color: #00bf12;
+  font-size: 16px;
+  line-height: px;
+}
+
+.panel-heading [data-toggle="collapse"].collapsed:after {
+  color: #044609;
+}
+
