@@ -8,6 +8,7 @@ AFIN Monte Carmelo
 </ul>
 </br>
 Desenvolvido por <a href="https://github.com/jfscrd" target="_blank"><b>Jefferson Dias</b></a></br></br>
-<b>Apoio</b>
+<b>Apoio</b><ul>
   Pro-reitoria de Extensão e Cultura (PROEX)</br>
 Universidade Federal de Uberlândia - Monte Carmelo
+</ul>
