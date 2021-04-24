@@ -1,0 +1,22 @@
+.faqHeader {
+  font-size: 30px;
+  margin-top: 30px;
+  padding-bottom: 15px;
+  font-family: farm-new, sans-serif;
+  font-size: 10px;
+}
+
+/* Icones dropdown abertos*/
+.panel-heading [data-toggle="collapse"]:after {
+  font-family: 'FontAwesome';
+  content: "\f078";
+  float: right;
+  color: #00bf12;
+  font-size: 16px;
+}
+
+/* Icone dropdown fechados*/
+.panel-heading [data-toggle="collapse"].collapsed:after {
+  color: #044609;
+}
+

@@ -1,0 +1,35 @@
+.highlight-phone {
+  color: #313437;
+  background-color: whitesmoke;
+  padding: 50px 0 55px;
+  overflow: hidden;
+  margin-top: -40px;
+  box-shadow: 0px 0px 18px 1px rgba(12,64,86,0.29);
+  
+}
+
+@media (max-width:767px) {
+  .highlight-phone {
+    text-align: center;
+  }
+}
+
+.highlight-phone h2 {
+  font-weight: bold;
+  margin-bottom: 35px;
+  line-height: 1.5;
+  padding-top: 0;
+  color: inherit;
+}
+
+.highlight-phone .intro { /*sobre o texto*/
+  font-size: 18px; 
+  max-width: 600px; 
+  line-height: 1.5;
+}
+
+@media (max-width:767px) {
+  .highlight-phone .intro {
+    max-width: none;
+  }
+}
